@@ -1,4 +1,4 @@
-# PIGMM-for-AM-
+# PIGMM-for-AM
 Gaussian Mixture Models for Additive Manufacturing
 
 This repository provides an example of using a Gaussian Mixture Models to detect defects in Additive Manufacturing processes, specifically in the case of the Laser Powder Bed Fusion (L-PBF) technology. 
